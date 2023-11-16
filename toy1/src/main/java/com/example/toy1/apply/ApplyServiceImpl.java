@@ -36,3 +36,4 @@ public class ApplyServiceImpl implements ApplyService {
 		applyRepository.save(applyEntity);
 	}
 }
+// 주석 추가
